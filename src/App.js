@@ -58,7 +58,6 @@ export default function App() {
             </div>
           </div>
         </div>
-        <WeeklyForecast />
       </div>
     </div>
   );
