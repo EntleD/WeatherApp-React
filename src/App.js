@@ -1,4 +1,3 @@
-import WeeklyForecast from "./Weekly-Forecast";
 import img2 from "../src/images/clear-sky-day.png";
 import Temperature from "./Temperature";
 import Wind from "./Wind";
