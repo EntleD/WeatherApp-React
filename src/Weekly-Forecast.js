@@ -1,8 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import img from "../src/images/rain-day.png";
 import img2 from "../src/images/clear-sky-day.png";
 import img3 from "../src/images/scattered-clouds-day.png";
 import Temperature from "./Temperature";
+import axios from "axios";
 
 export default function weeklyForecast() {
   return (
