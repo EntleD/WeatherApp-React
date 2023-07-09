@@ -9,8 +9,12 @@ root.render(
   <React.StrictMode>
     <App />
     <p className="coded-by">
-      <a href="https://github.com/EntleD/Weather-React">Open-source code </a>,
-      by Entle Dubese
+      {" "}
+      This project was coded by Entle Dubese and is
+      <a href="https://github.com/EntleD/Weather-React">
+        open-sourced on Github{" "}
+      </a>
+      , and hosted on Netlify
     </p>
   </React.StrictMode>
 );
